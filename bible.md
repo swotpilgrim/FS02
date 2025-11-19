@@ -1,133 +1,135 @@
-# VEGAS GAMBIT - Series Bible
+# BORDER GHOST - Series Bible
 
 ## Story Premise
 
-Twenty-two-year-old PROJECT COLDREAD operative Lisa Kane goes undercover as a poker player in Las Vegas's Desert Star High Stakes Tournament to identify which player is passing stolen nuclear facility blueprints to a Soviet agent. The exchange is hidden in the card game itself—specific hands encoding classified information. Lisa must beat a ruthless KGB operative at his own game while the bodies pile up around the tournament, racing to stop the transfer before the final hand. What she doesn't know: her handler is feeding her to the Soviets to burn PROJECT COLDREAD, and the blueprints detail the facility where her estranged father works as a security guard—making her the perfect patsy.
+PROJECT NIGHTEYE operative Sarah Mackenzie must escort a defecting Soviet weapons scientist through forty miles of border desert to a New Mexico safe house while hunted by a former Border Patrol agent turned cartel enforcer. The mission becomes a moral crucible when Sarah discovers the scientist designed the experimental rifle that killed her brother in Vietnam—forcing her to protect her brother's killer while questioning whether her handler sent her on this mission specifically to break her. Every step through the desert is a step deeper into rage, grief, and the terrible cost of duty.
 
 ## Heroine Profile
 
-**Lisa Kane, 22, PROJECT COLDREAD Operative**
+**Sarah Mackenzie, 29, PROJECT NIGHTEYE Operative**
 
-Lisa is compact and unremarkable—5'4", lean build, light brown hair usually pulled back, hazel eyes that never stop moving. She looks younger than twenty-two, which helps her blend in. No beauty, but forgettable in the right way for a card dealer.
+Sarah is 5'7", lean and weather-hardened from years in the Southwest desert. Shoulder-length dark brown hair usually braided tight, sun-damaged skin, gray-green eyes that see better in darkness than most people see in daylight. Moves with economy—no wasted motion, product of desert survival training. Hands are calloused from rope work and climbing.
 
-Grew up in Reno, daughter of a casino security guard who drank himself out of the job when Lisa was sixteen. She started dealing cards at eighteen to pay rent, discovered she had a gift: perfect memory for hands played, instant recognition of micro-expressions, an uncanny ability to spot cheaters before security cameras caught them. She could read a tell in someone's breathing, spot a card counter by their betting rhythm.
+Grew up in El Paso, daughter of Border Patrol Agent Robert Mackenzie. Her childhood was desert search-and-rescue: finding lost migrants, tracking injured hikers, navigating trackless terrain by stars and intuition. Her father taught her young—by twelve she could track, navigate at night, read weather patterns, survive on minimal water. By sixteen she was finding people the official search teams had given up on. She had a gift: heightened sensory awareness in low-light conditions, ability to process environmental information (sounds, air movement, animal behavior) into accurate threat assessment.
 
-PROJECT COLDREAD recruited her after she identified a sophisticated six-person card-counting ring that had beaten casino security for months. She caught them by reading their micro-expressions during a shift change—noticed the subtle eye contact, the breathing synchronization, the delayed bet timing. CIA tested her: behavioral analysis assessments, deception detection trials, pattern recognition under stress. She scored off the charts.
+Her brother Danny was Army, deployed to Vietnam in 1971. Killed in 1972 by an experimental Soviet rifle—bled out slowly from a wound that should have been survivable. The weapon was designed to maximize suffering, create battlefield chaos through prolonged dying. Sarah was twenty-three when Danny died. The grief nearly destroyed her. She channeled it into work: private security, wilderness guide companies, anything to stay moving in the desert where grief couldn't catch her.
 
-Training weaponized her natural abilities: advanced interrogation resistance, tactical poker theory, covert communication methods, close-quarters combat (she's competent with a knife, adequate with a pistol). She's brilliant at reading people but inexperienced in fieldwork—this is her second mission. First mission was a milk run (surveillance only). This is her first operational deployment.
+PROJECT NIGHTEYE recruited her in 1975 after she located a lost family in complete darkness during a desert storm—tracked them fifteen miles by sound, air pressure changes, and pure instinct. CIA tested her: sensory deprivation adaptation, threat detection in chaotic environments, navigation without visual reference. She scored exceptional. Training enhanced her natural abilities: tactical operations in darkness, enhanced auditory processing, stress endurance protocols, close-quarters combat (she's expert with knives, adequate with firearms, brutal in hand-to-hand).
 
-Lisa talks fast when nervous, goes silent when calculating. She has working-class Reno in her voice—not crude, but direct. No patience for bullshit or ego. She plays poker with mathematical precision but reads people through intuition. Keeps emotion off her face through practice, but her hands fidget when she's stressed—rolls poker chips between fingers, taps rhythms on tables.
+Sarah doesn't talk much—desert economy of words. When she speaks, it's direct, no flourish. She has her father's Border Patrol pragmatism and her brother's military discipline. Keeps emotion locked down through operational focus, but the grief is always there, a weight she carries like a rucksack. She processes trauma through motion—walking, running, working. Stillness lets the ghosts catch up.
 
-Her wound: Her father's alcoholism destroyed their family. She hasn't spoken to him in four years, doesn't know he's working security at the Nevada nuclear facility that's been compromised. Duty-driven to prove she's more than a dealer, desperate to justify PROJECT COLDREAD's faith in her, terrified of failing and going back to Reno with nothing.
+Her wound: Danny's death broke something in her. She never cried at his funeral, never talked about it, just went back to the desert. Protecting Petrov forces her to confront what she's been running from for four years. The mission asks: What does duty mean when it protects evil?
 
 ## Villain Profile
 
-**Dmitri Volkov, KGB Major / "The Dealer"**
+**Mateo "The Coyote" Garza, 47, Cartel Enforcer / Smuggler**
 
-Volkov is fifty-two, trim and elegant in expensive suits that seem wrong for his weathered face. Silver-gray hair, cold blue eyes, a thin scar from his left ear to jawline (knife fight in Berlin, 1968). Moves with predatory patience. Speaks perfect English with faint accent he could hide if he wanted—keeps it because it unsettles Americans.
+Garza is compact and desert-scarred—5'9", wiry muscle, weathered brown skin, black hair going gray at temples, dark eyes that reflect light like an animal's. Missing his left pinkie finger (cartel punishment for early failure). Moves through desert like he was born there, which he was: grew up in border towns, knows every canyon and water source from Juarez to Tucson.
 
-Born in Leningrad, rose through KGB ranks via wetwork in Eastern Europe. Earned his nickname "The Dealer" for his signature method: he literally deals out death. When interrogating or eliminating targets, he uses playing cards to decide their fate—draws a card, the suit determines the method (hearts: blade, diamonds: bullet, clubs: strangulation, spades: his choice, usually inventive). He makes victims draw their own card first, lets them see what's coming. Theatricality is the point—fear is a weapon.
+He was Border Patrol for twelve years, worked with Sarah's father in the early '70s. Good agent initially—saved lives, knew the terrain, respected the job. But the pay was terrible and the job was impossible. Cartels offered real money. He turned in 1974, started running people and drugs through his patrol sector. When Border Patrol caught him, he disappeared into Mexico, became full-time coyote. Now he controls smuggling routes through this section of border—human trafficking, drug running, weapons, anything that pays. Works for whoever has money. KGB paid him $50,000 to intercept Petrov and deliver the scientist to their handlers.
 
-Volkov runs KGB operations in the American Southwest, specializing in nuclear facility infiltration and scientific recruitment. He's sophisticated, cultured, quotes Dostoevsky, drinks good bourbon. Absolutely ruthless. He killed a Phoenix banker's family (wife, two children) to force cooperation, then killed the banker anyway once the information was extracted. In Vegas for the tournament, he's already killed three people: a casino manager who noticed his surveillance team, a cocktail waitress who saw too much, and an American asset who tried to renegotiate payment (Volkov shot him in his hotel room, left the death card—seven of spades—on the body).
+His signature M.O.: "The Thirst." When someone crosses him or fails to pay, he doesn't kill them quickly. He strips them, ties them spread-eagle in the desert sun, leaves a canteen of water just out of reach. They die slowly over two or three days, dehydrating while staring at salvation they can't reach. He's done this to at least fifteen people—migrants who couldn't pay, rivals who challenged his territory, associates who betrayed him. He leaves the bodies where they'll be found, sends a message. The cartel loves it because it's terror theater. Garza loves it because he's genuinely sadistic—enjoys watching them break psychologically before they die physically.
 
-He sees the poker tournament as theater—he loves the game, loves the psychological warfare, enjoys watching Lisa figure out the puzzle. When he realizes she's CIA, he doesn't panic. He hunts her, methodically, with the patience of someone who's done this dozens of times.
+He's smart, patient, knows Sarah by reputation (her father's daughter, the girl who could track anything). He respects her skills but underestimates her lethality—thinks she's search-and-rescue soft, not a killer. He's wrong. By the time he realizes it, he's bleeding out in a canyon.
+
+Garza is charismatic in a rough way—tells stories, laughs easily, treats his men well. But the cruelty is always underneath. He'll share water with you one moment, stake you out in the sun the next. He sees the desert as his kingdom and everyone in it as either asset or obstacle.
 
 ## Handler & Supporting Characters
 
-**Richard Hayes (Handler):** Mid-forties, CIA counterintelligence, fifteen years in the field. Appears professional, supportive, experienced. Actually dirty—working with a rival CIA faction that wants PROJECT COLDREAD shut down. He's feeding Lisa to Volkov deliberately, setting her up as the patsy who "went rogue" and stole blueprints herself. When it collapses, COLDREAD gets burned. Hayes is smooth, gives good advice, seems genuinely concerned for her safety. His tells are minimal but Lisa catches them too late.
+**Thomas Beck (Handler):** Late forties, CIA operations officer, twenty years in Latin America intelligence. Weathered, competent, speaks fluent Spanish. Beck appears supportive and professional, gives solid tactical advice. But Sarah starts noticing inconsistencies: Why was she specifically assigned to this mission when other NIGHTEYE operatives were available? Why does Beck know details about her brother he shouldn't have access to? The paranoia builds: Did Beck assign her to Petrov specifically because of Danny, knowing it would compromise her emotionally? Is this a test, a punishment, or something worse? Beck's loyalty remains ambiguous until Act 3—he's not actively dirty, but he's operating with agendas Sarah doesn't fully understand. Program politics are in play.
 
-**Jack Morrison:** American defense contractor, mid-thirties, nervous energy, sweats under pressure. Actually legitimate—he's passing blueprints because Volkov is blackmailing him (gambling debts, compromising photos). Morrison doesn't want to be a traitor, hates himself for it, breaks under the stress. Lisa initially suspects him but realizes he's a victim. He gets killed (Volkov, ace of spades) in Chapter 18 after the exchange is interrupted.
+**Dr. Viktor Petrov:** Soviet weapons scientist, 51, physicist specializing in small arms design. Thin, balding, nervous energy, speaks heavily accented English. Designed multiple weapon systems for Soviet military, including the rifle that killed Danny. Petrov is brilliant and morally hollow—viewed his work as pure engineering problem-solving, never considered human cost until his daughter Elena died from one of his bioweapon prototypes (lab accident during testing in 1976). Her death broke him, drove him to defect. He wants asylum, wants to give Americans his knowledge to prevent other weapons from killing other daughters. He's pathetic, cowardly, and Sarah's moral test. Petrov doesn't know about Danny until Act 3—when Sarah finally tells him, he understands why she's looked at him with such hate.
 
-**Marcus Sterling:** British businessman, late forties, too smooth, too charming. Actually MI6, running parallel operation to identify Soviet networks in Vegas casinos. He's not dirty, just working his own mission. Becomes temporary ally to Lisa after Hayes's betrayal is revealed. Competent, cynical, treats spy work like a business.
+**Robert Mackenzie (Sarah's Father):** Appears only in flashback and one phone call. Retired Border Patrol, still living in El Paso. Relationship with Sarah is strained—he didn't know how to handle Danny's death, retreated into stoicism, pushed Sarah away when she needed him. She hasn't spoken to him in two years. His voice on the phone (Chapter 4) is awkward, distant—he heard she's working for the government now, wants to reconnect, but neither of them know how to bridge the gap.
 
 ## Setting Details
 
-**Las Vegas, 1977—Summer**
+**El Paso / Juarez Border Region, Summer 1977**
 
-The Strip is neon and nouveau riche, but the edges are still mob-controlled and dangerous. This is pre-corporate Vegas—casinos are fronts for money laundering, unions are infiltrated, and violence happens in desert lots outside town. The Desert Star Casino is mid-tier: not Caesars Palace glamorous, but respectable enough for high-stakes games. Brass fixtures, red carpet, cigarette smoke layered thick, cocktail waitresses in revealing uniforms, pit bosses who've seen everything.
+The desert here is Chihuahuan—creosote bush, ocotillo, cholla cactus, rocky arroyos cutting through hard-packed earth. Daytime temperatures hit 105°F, nighttime drops to 70°F. The terrain is deceptive: looks flat from distance but is actually broken by gullies, ridges, and box canyons. Water sources are rare and known to anyone who works the desert regularly (which includes both Sarah and Garza). The border itself is unmarked in most places—just desert continuing in both directions.
 
 **Key Venues:**
 
-*The Desert Star Poker Room:* Soundproofed, deliberately isolated from main casino floor. Green felt tables under focused lighting. Gallery for spectators behind velvet rope. Twelve players, structured elimination over five days. Security cameras everywhere (Volkov has people monitoring feeds). The room feels luxurious but claustrophobic—thick air, muffled sounds, psychological pressure building over days.
+*Juarez Rendezvous Point (Chapter 6):* Abandoned warehouse district on industrial outskirts. Concrete buildings with broken windows, trash-strewn lots, stray dogs. Sarah meets Petrov here at 2200 hours. The area is cartel-controlled but CIA has paid for temporary safe passage. Feeling is tense, exposed—streetlights broken, shadows everywhere, sense of being watched.
 
-*Volkov's Suite (Bellacore Hotel):* Three buildings down from Desert Star. Penthouse suite with desert views. This is his operational base: surveillance equipment hidden in bedroom, weapons cache in bathroom false ceiling, cards laid out on the desk where he plans his kills. Decorated in 1970s excess—shag carpet, mirrored bar, floor-to-ceiling windows.
+*The Desert Crossing:* Forty miles from Juarez to New Mexico safe house. The route takes them through increasingly rough terrain: hard-pack flats for first ten miles (fast but exposed), then arroyos and ridgeline country (cover but slower), finally box canyon networks in the last stretch (tactical advantage for ambush from either side). Sarah planned the route for minimal water needs—three cache points she pre-positioned. Garza knows this territory too, makes it a chess match of terrain knowledge.
 
-*The Desert Outskirts:* Where bodies go. Abandoned construction sites, empty lots, desert scrub starting twenty minutes from the Strip. Volkov dumps the casino manager here (bullet to head, six of diamonds left in his pocket). Lisa discovers this location in Act 3, realizes how many people Volkov has killed to protect the operation.
+*Water Cache #2 (Chapter 12):* Rock outcropping with natural depression that holds water after rains. Sarah cached supplies here two weeks ago. When they arrive, the water is fouled (Garza's men poisoned it), supplies scattered. First sign Garza is ahead of them, controlling their options. The cache is in open ground—approaching it is exposed, but they're desperate.
 
-*Lisa's Motel Room (Silver Sands Motor Inn):* Budget accommodations two miles from Strip. Paneled walls, thin mattress, rotary phone. Her operational base—where she reports to Hayes, studies player profiles, maintains cover. The contrast between tournament luxury and this shabby room reinforces her working-class background.
+*Box Canyon (Chapter 23-26):* The final confrontation site. Narrow canyon with vertical walls, limited entry points, rock formations providing cover. Sarah chooses to make her stand here because the terrain negates Garza's numbers—he can't swarm her, has to come through bottlenecks. Dawn light creates harsh shadows, temperature differential creates sound distortion. It's a natural fortress if you know how to use it.
 
-The 1970s texture: Everything feels slightly worn. Oil crisis recession visible in vacant lots and unfinished construction. Cab drivers hustle, dealers gossip, organized crime money props up legitimate business. Technology is payphones and written notes—no computers, no digital trails. Surveillance means following people in cars and planting bugs.
+The 1970s border is lawless—Border Patrol is understaffed and outgunned, cartels operate openly, violence is common and rarely investigated. Technology is primitive: no night vision, no GPS, no radio communication once you're away from roads. Navigation is maps, compass, stars. Tracking is reading signs in dirt. It's old-school desert warfare.
 
 ## Mission Parameters
 
-**Official Assignment (from Hayes):**
+**Official Assignment (from Beck):**
 
-Enter Desert Star High Stakes Tournament ($50,000 CIA-funded buy-in) as player. Soviet agent will use tournament to receive stolen nuclear facility blueprints from American traitor. Identify the receiver, identify the passer, determine exchange method. Disrupt exchange, secure blueprints, coordinate FBI arrests. Five-day timeline (tournament duration). Backup available but must maintain cover—Lisa is lone operative at table.
+Extract Dr. Viktor Petrov from Juarez, escort him through desert crossing to New Mexico safe house (coordinates provided). Off-books operation—no official crossing, no Border Patrol involvement, no records. Petrov has intelligence on Soviet bioweapon programs and nuclear facility vulnerabilities. Timeline: 24 hours (night crossing, arrive by dawn). Backup unavailable due to diplomatic sensitivity. Solo operation leveraging Sarah's desert expertise.
 
 **Actual Stakes:**
 
-The blueprints detail security systems at Nevada National Security Site (formerly Nevada Test Site)—specifically the facility where Lisa's estranged father now works as night security guard. If Soviets get complete plans, they can infiltrate and steal weapons-grade material, or worse, sabotage security and blame it on insider threat (her father could be killed or imprisoned as scapegoat).
+Petrov designed weapons systems that killed American soldiers, including Sarah's brother. The mission is legitimate—CIA genuinely needs Petrov's intelligence—but Beck assigned Sarah specifically. Why? Is it because she's the best desert operator (official reason), or because Beck is testing whether NIGHTEYE operatives can handle emotionally compromising missions (program politics), or because someone wants her to fail (active sabotage)? Sarah doesn't know, and the ambiguity feeds her paranoia.
 
-Hayes has set Lisa up: She's supposed to fail, blueprints are supposed to be "stolen by rogue COLDREAD operative," and PROJECT COLDREAD gets shut down in the scandal. Lisa doesn't know any of this until Act 2 midpoint.
+If Petrov is captured or killed, Soviets retain his knowledge and potentially hunt other defectors more aggressively. If Sarah abandons the mission, she's failed, NIGHTEYE credibility suffers, and her career is over. The stakes are professional, national security, and deeply personal simultaneously.
 
 **Operational Constraints:**
 
-No backup (Hayes claims resources are thin, actually isolating her). Limited weaponry (she has a .38 snub-nose in her hotel room, small knife in her purse—can't bring weapons to tournament). Five-day clock (tournament ends, exchange completes, Volkov disappears). Must maintain poker cover (if she's eliminated from tournament, she loses access to players and can't complete mission).
+Solo operation (no backup, no exfil if things go wrong). Limited armament (Sarah carries knife, .45 pistol with three magazines, no heavy weapons). Desert environment (water scarcity, temperature extremes, exposure). Petrov is physical liability (poor conditioning, slows them down, panics under stress). 24-hour timeline becomes meaningless once Garza's pursuit begins—survival replaces schedule. Communication is line-of-sight only (no radio contact with Beck after crossing starts).
 
 ## Spy Paranoia Elements
 
-**Handler Betrayal:** Hayes is dirty from the start. He's working with a CIA faction (old-guard counterintelligence) that thinks PROJECT COLDREAD is pseudoscience and waste of resources. They want it shut down. Hayes manufactures this mission to burn the program—Lisa fails, blueprints stolen, COLDREAD blamed. Lisa trusts Hayes initially, starts noticing inconsistencies in his instructions around Chapter 15, confirms betrayal Chapter 20.
+**Handler Agenda:** Beck assigned Sarah to this mission knowing about Danny. Did he do it to test her psychological resilience (NIGHTEYE needs operatives who can compartmentalize trauma), to punish her for something (program politics Sarah doesn't understand), or because he genuinely believes she's the best option despite the emotional complication? His motives remain unclear. Sarah trusts him initially, starts doubting by Act 2, confronts him (via emergency contact protocol) in Act 3. He's not dirty, but he's not transparent either—operating with program survival priorities that may conflict with Sarah's wellbeing.
 
-**Mission Authenticity:** Is the tournament exchange real, or is Lisa the actual target? By Act 2, she realizes the mission is real but she's meant to fail. The question becomes: complete the mission despite betrayal, or extract herself and survive?
+**Mission Layers:** Is extracting Petrov the real mission, or is Sarah the actual test subject? Is NIGHTEYE being evaluated for psychological breaking points? The paranoia builds: Every hardship feels designed. Did Beck know Garza would be hired by KGB? Did he anticipate Sarah discovering Petrov's identity? The mission starts feeling like a controlled torture experiment with Sarah as the subject.
 
-**Asset Verification:** Is Morrison genuinely coerced, or is he playing triple-agent? Is Sterling really MI6, or another Soviet layer? Lisa has to verify everyone's loyalty while playing high-stakes poker, creating constant uncertainty.
+**Petrov's Authenticity:** Is Petrov genuinely defecting, or is he a plant designed to test American intelligence procedures? His grief over his daughter seems real, but he's a trained Soviet operative—everything could be performance. Sarah has to protect him while uncertain if he's legitimate, which adds another layer of paranoia.
 
-**Program Politics:** Hayes represents old CIA guard who resent the esoteric programs. PROJECT COLDREAD's success threatens traditional intelligence methods. If Lisa succeeds despite sabotage, she proves the program's value. If she fails, the program dies. The mission is proxy war for CIA internal politics.
-
-**The Father Angle:** When Lisa discovers the blueprints involve her father's facility, she questions whether Hayes chose her specifically for this reason—to compromise her emotionally, ensure she makes mistakes. Is her recruitment itself suspect?
+**Garza's Resources:** How did Garza know the exact crossing point and timeline? Did someone leak the mission details? Is there a mole in CIA's Mexico City station? The level of Garza's preparation (poisoned caches, positioned men) suggests he had intelligence beyond what KGB should have provided.
 
 ## Tone & Voice Guidelines
 
-Hard-boiled and paranoid, but with kinetic energy from the poker framework. Narrative style is close third-person from Lisa's POV—readers experience her reading other players, catching tells, calculating odds. Internal monologue runs parallel to external action (she's playing cards while analyzing threats).
+Sparse and hardboiled, desert-dry prose style. Close third-person from Sarah's POV with minimal internal monologue—her thoughts come through action and observation, not lengthy reflection. The desert is a character: hostile, indifferent, beautiful in its lethality.
 
-Pacing alternates: Poker scenes are methodical and tense (slow-burn psychological warfare), violence scenes are sudden and brutal (Volkov kills fast when needed). Contrast between tournament glamour and blood in hotel rooms creates tonal whiplash—intentional.
+Pacing is relentless once the crossing begins (Chapter 6 onward). Tension builds through accumulation: heat, thirst, exhaustion, pursuit, moral weight. Action sequences are brutal and efficient—desert violence is desperate, close-quarters, final. No extended gunfights; fights end with knives, rocks, hands.
 
-Violence level is mid-range for series: Body count around 18-22 (Volkov kills efficiency, Lisa kills when necessary). Combat is close-quarters and ugly—knife work, improvised weapons, desperate grappling. Lisa isn't superhuman; she gets hurt, exhausted, terrified.
+Violence level is mid-to-high for series: Body count around 19 (Garza's men killed across multiple encounters, Garza himself, two KGB handlers in epilogue). Sarah kills clinically when necessary but it costs her—each death is exhausting, not empowering. Garza kills theatrically (enjoys it). The contrast emphasizes different relationships to violence.
 
-Emotional register: Lisa starts confident (excited for real mission), shifts to paranoid (realizes she's isolated), ends in cold determination (betrayed but committed to completing mission anyway). Cynical about institutions, loyal to the mission itself.
+Emotional register: Sarah starts controlled (professional operator), shifts to conflicted (rage vs. duty), ends hollow (mission accomplished but victory tastes like ash). The story doesn't offer catharsis—just the bleak satisfaction of duty completed despite moral anguish.
 
-The poker metaphor runs throughout: Knowing when to hold, when to fold, when to bluff. Reading tells. Playing percentages. Lisa applies poker logic to spy work—it's her framework for understanding a world built on deception.
+Thematic through-line: The desert as metaphor for emotional wasteland. Sarah's internal landscape mirrors the physical terrain—barren, harsh, survival-focused. The journey through desert is journey through grief.
 
 ## Personal Stakes
 
-Lisa's father works at the facility Volkov is targeting. She doesn't know this until Chapter 16. Despite their estrangement, she can't let him die or be framed as a Soviet collaborator. The mission becomes personal: Stop Volkov to save her father, even though she hasn't forgiven him for destroying their family.
+Sarah's brother Danny was killed by Petrov's weapon. Every moment protecting Petrov is betrayal of Danny's memory. The moral calculus is impossible: Duty says protect the asset, grief says kill him in the desert where no one would know. Sarah has to choose between honoring her brother through revenge or honoring his service through completion of mission.
 
-Beyond her father: Lisa's entire future depends on PROJECT COLDREAD. If Hayes burns the program, she goes back to dealing cards in Reno, wasted potential, another working-class kid who got close to something better but didn't make it. This mission is her proving ground—fail, and she loses everything.
+Beyond Danny: Sarah's relationship with her father is unresolved. They haven't spoken in two years, both grieving separately, neither able to bridge the gap. The mission forces Sarah to confront whether duty matters more than family—she's protecting strangers' interests while her relationship with her last living family member deteriorates.
 
-What she risks: Her life (Volkov will kill her if he confirms she's CIA). Her father's life (if blueprints get through). Her identity (if framed as rogue operative). Her future (if COLDREAD is shut down).
+What she risks: Her life (Garza will kill her brutally if he captures her—likely "The Thirst" as psychological warfare). Her sanity (the moral weight of protecting her brother's killer could break her permanently). Her soul (can she live with herself after saving Petrov?).
 
-What she loses even winning: Her faith in the CIA (Hayes's betrayal shows the institution is as dirty as any casino). Her naïveté about spy work (it's not exciting, it's ugly). Possibly her relationship with her father forever (she saves him, but never tells him, never reconciles).
+What she loses even winning: Peace with Danny's death. By protecting Petrov, she's chosen duty over grief—but the grief doesn't resolve, just gets buried deeper. Her faith in CIA (Beck's motives remain unclear; she'll never fully trust handlers again). Possibly any chance of reconciliation with her father (she can't tell him what she did, and the secret creates unbridgeable distance).
 
 ## Thematic Elements
 
-**What this story is about:** The illusion of control in games of chance, and what happens when you realize the game is rigged.
+**What this story is about:** The unbearable cost of duty when it conflicts with love and grief.
 
-**The question it asks:** When the institution betrays you, do you abandon the mission or complete it anyway?
+**The question it asks:** When the mission requires protecting evil, do you complete it or walk away?
 
-**The answer it gives:** You complete the mission—not for the institution, but because the stakes (lives, principles, stopping evil) matter more than your handlers' agendas. Lisa is betrayed by Hayes and the CIA, but she stops Volkov anyway. Duty transcends the institution that assigned it.
+**The answer it gives:** You complete it—not because duty is higher than love, but because duty is all you have left when love has been destroyed. Sarah protects Petrov not because it's right, but because she's already lost Danny and abandoning the mission would make that loss meaningless. Duty becomes the only structure holding her together.
 
-**Secondary theme:** Working-class competence vs. institutional gatekeeping. Lisa is brilliant, but the CIA old guard doesn't respect PROJECT COLDREAD recruits (working-class women with "weird" skills). Her success despite sabotage proves the gatekeepers wrong.
+**Secondary theme:** The desert as crucible. The physical ordeal mirrors emotional ordeal. Sarah is being refined down to essential elements—stripped of comfort, illusion, easy answers. What remains is bare capacity to continue despite anguish.
 
-**Emotional core:** Reconciliation without forgiveness. Lisa saves her father but doesn't forgive him. Duty doesn't require love.
+**Emotional core:** Grief without resolution. The story doesn't offer healing or closure. Sarah ends still grieving, still angry, still broken. But she's proven she can function despite brokenness—which is its own terrible kind of strength.
 
 ## Program Background
 
-PROJECT COLDREAD recruits individuals with extreme deception-detection abilities: micro-expression reading, behavioral analysis, pattern recognition in social contexts. The theory: Some people naturally process interpersonal cues faster and more accurately than others. Training enhances this into tactical advantage for interrogation, infiltration, asset recruitment.
+PROJECT NIGHTEYE recruits individuals with exceptional sensory awareness in low-light and high-chaos environments. The theory: Some people process environmental information (sound, air pressure, spatial awareness, threat detection) at higher levels than average. Training enhances this into tactical advantage for night operations, hostage rescue, infiltration in adverse conditions.
 
-Lisa was recruited in 1976 (age 21) after the card-counting bust. CIA tested her extensively: Showed her interrogation footage, had her identify liars, ran her through simulated social scenarios. She scored 94% accuracy on deception detection (normal humans: 54%). PROJECT COLDREAD offered training: six months at a facility in rural Virginia. She learned advanced behavioral psychology, interrogation techniques, poker theory (mathematical and psychological), cover identity maintenance, basic combat skills.
+Sarah was recruited in 1975 after the storm rescue. CIA tested her extensively: sensory deprivation tanks, navigation in total darkness, threat detection in simulated chaos (smoke, noise, multiple moving targets). She scored exceptionally on all metrics. Six months of training at facility in Arizona: advanced night operations, enhanced auditory discrimination, stress inoculation, weapons training, survival protocols.
 
-The program is controversial within CIA. Old guard sees it as pseudoscience, waste of budget. Younger analysts think it's the future. Only twelve operatives have been recruited since 1973. Lisa is one of the youngest and least experienced. The program's survival depends on field successes—which is why Hayes's sabotage is so dangerous. If she fails publicly, COLDREAD gets shut down and all twelve operatives are reassigned or cut loose.
+The program is moderately controversial within CIA. Not as fringe as some esoteric programs (COLDREAD, SIREN), but still viewed skeptically by traditional operations officers. Only eight operatives recruited since 1973. Sarah is one of the more experienced, which isn't saying much—this is her fifth mission.
 
-Lisa's relationship to the program: Pride (she's good at this, finally using her abilities), loyalty (they gave her a future), anxiety (constant pressure to prove the program works). She knows she's expendable if the politics turn against COLDREAD. This mission is her chance to cement the program's legitimacy—or become the failure that kills it.
+NIGHTEYE's survival depends on demonstrating consistent operational success. Beck is under pressure to prove the program's value to budget committees and rival departments. Sarah's success or failure on this mission affects program funding and potentially its existence. Beck may have assigned her despite (or because of) the emotional complication to prove NIGHTEYE operatives can handle worst-case psychological scenarios. If Sarah succeeds protecting her brother's killer, it demonstrates program resilience. If she fails, it proves the program selects unstable candidates. She's a test case whether she wants to be or not.
 
-**Word Count: 2,847**
+Sarah's relationship to the program: Gratitude (gave her purpose after Danny's death), competence (she's genuinely good at this work), resentment (being used as proof-of-concept specimen), doubt (can she trust an institution that would assign her this mission?). The program offered escape from grief; now it's weaponizing her grief for operational purposes.
+
+**Word Count: 2,996**
